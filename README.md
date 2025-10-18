@@ -1,4 +1,3 @@
 ## Hi, I'm Micaela! 👋
 
-I am a student of the degree in Computer Science and I am excited to learn and take my first steps contributing to the creation of new technologies that contribute to our world. 
-
+I’m a Computer Science student focused on software development and problem-solving. My goal is to keep improving my skills and collaborate on projects that drive innovation and create real-world value.
