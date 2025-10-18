@@ -2,7 +2,7 @@
 
 # Hello, World! 👋🖥
 
-> I'm Micaela, a Computer Science student focused on software development and problem-solving. My goal is to keep improving my skills and collaborate on projects that drive innovation and create real-world value. 🧭
+I'm Micaela, a Computer Science student focused on software development and problem-solving. My goal is to keep improving my skills and collaborate on projects that drive innovation and create real-world value. 🧭
 
 [COMENTARIO: logos en https://www.vectorlogo.zone/]: #
 ### You can find me on the web 🌍  
