@@ -1,4 +1,5 @@
-<img width="1366" height="345" alt="Cabecera" src="https://github.com/user-attachments/assets/b3860381-3d64-4721-bb35-d12407755c82" />
+<img width="1366" height="345" alt="Banners Linkedin (6)" src="https://github.com/user-attachments/assets/964a2c38-1c0f-4079-99d1-c16254e5738e" />
+
 
 # Hello, World! 👋🖥
 
