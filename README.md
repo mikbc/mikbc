@@ -1,4 +1,4 @@
-<img width="1366" height="345" alt="Banners Linkedin (6)" src="https://github.com/user-attachments/assets/964a2c38-1c0f-4079-99d1-c16254e5738e" />
+<img width="1366" height="345" alt="Banners Linkedin" src="https://github.com/user-attachments/assets/2c4cbec4-efd0-48f2-9eb3-3760614905d5" />
 
 
 # Hello, World! 👋🖥
